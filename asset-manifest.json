@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BoomVideos/static/css/main.b4cf4a53.css",
+    "main.js": "/BoomVideos/static/js/main.f7ad427a.js",
+    "static/js/453.4fdea942.chunk.js": "/BoomVideos/static/js/453.4fdea942.chunk.js",
+    "index.html": "/BoomVideos/index.html",
+    "main.b4cf4a53.css.map": "/BoomVideos/static/css/main.b4cf4a53.css.map",
+    "main.f7ad427a.js.map": "/BoomVideos/static/js/main.f7ad427a.js.map",
+    "453.4fdea942.chunk.js.map": "/BoomVideos/static/js/453.4fdea942.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4cf4a53.css",
+    "static/js/main.f7ad427a.js"
+  ]
+}
